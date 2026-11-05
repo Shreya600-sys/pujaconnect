@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PujaConnect — Online Pandit & Puja Booking Platform
 
 Full-stack MERN app: React + Vite frontend, Node/Express + MongoDB backend, JWT auth.
@@ -108,3 +109,6 @@ Runs on **http://localhost:5173**.
 - MongoDB must be running locally, or use a free MongoDB Atlas cluster and
   put its connection string in `backend/.env` as `MONGO_URI`.
 - Change `JWT_SECRET` in `backend/.env` before deploying anywhere real.
+=======
+# pujaconnect
+>>>>>>> 2900eccef8f8c036a2bca2068cd3b4499d06dcc9
